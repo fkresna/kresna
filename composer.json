@@ -2,7 +2,7 @@
     "name": "kresna/kresna.xyz",
     "description": "Kresna.xyz website",
     "require" : {
-        "twig/twig": "2.*",
+        "twig/twig":"^2.0",
         "swiftmailer/swiftmailer": "5.*",
         "phpunit/phpunit": "4.*",
         "aws/aws-sdk-php": "3.*"
